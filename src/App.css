@@ -1,0 +1,33 @@
+.main-card{
+  width: 95%;
+  margin: 2rem auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  /* padding: 1rem; */
+}
+.product-details{
+  box-shadow: 0 0 20px rgb(179, 146, 244);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 4rem;
+  width: 80%;
+  margin: 2rem auto;
+  border-radius: 10px;
+}
+.product-img{
+width: 40%;
+/* height: 20%; */
+}
+.details{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: center; */
+  margin: 2rem;
+}
+.select-cate{
+  width: 50%;
+  margin:2rem auto;
+}
